@@ -19,10 +19,10 @@ Coding Assessment for Web Developer Role
 Create a single webpage that displays attendees for a fictional Georgetown University event. This page might be used by event attendees to see if their classmates are also attending or internally by staff to follow up with individuals who have not yet completed their registration. These users would be able to search by name and filter by school and registration status. The data for attendees will be delivered via an API that returns JSON.
 
 ### Screenshot
-design/screenshot.jpg
+screenshot.jpg
 
 ### Links
-- Live Site URL: https://
+- Live Site URL: https://alana-nanz.github.io/event-attendees/
 
 ## My process
 - Download HTML5 Boiler Plate
@@ -34,7 +34,6 @@ design/screenshot.jpg
 - Run CSS through validator: https://jigsaw.w3.org/css-validator/#validate_by_input
 - Review Georgetown University's Accessibility Checklist: https://georgetown.app.box.com/s/sr72yhno3cila2z0bedn9nb65rtc6jrz
 - Check site across browsers
-- 
 
 Note: Although this webpage was coded for desktop with a 1200px browser, I normally code with a mobile-first approach. I added a few media queries with tablet and mobile styles to adjust the flexbox properties.
 
