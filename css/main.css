@@ -153,6 +153,7 @@ h4 {
   margin-right: 60px;
   width: 30%;
 }
+
 .name-container {
   display: flex;
   flex-direction: column;
@@ -163,31 +164,29 @@ h4 {
   font-weight: 500;
 }
 
+.search-container, .school-container {
+  border-bottom: 1px solid #cccccc;
+}
+
 .search-container {
   position: relative;
+  display: flex;
 }
 
 .search {
   border: 1px solid #cccccc;
-  display: block;
-  margin: 0 60px 20px 0;
+  margin-bottom: 20px;
   padding: 15px;
-  width: 90%;
+  flex-basis: 100%;
 }
 
 #magnifying-glass {
-  display: inline-block;
   filter: invert(11%) sepia(37%) saturate(2849%) hue-rotate(197deg) brightness(91%) contrast(103%);
   position: absolute;
   top: 0;
   right: 0;
-  z-index: 2;
   padding: 15px;
   width: 20px;
-}
-
-.search-container, .school-container {
-  border-bottom: 1px solid #cccccc;
 }
 
 fieldset {
