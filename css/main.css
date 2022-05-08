@@ -138,6 +138,10 @@ h4 {
   padding: 30px 60px;
 }
 
+#header-img {
+  max-width: 100%;
+}
+
 /*MAIN CONTAINERS*/
 #two-column-container {
   margin-bottom: 80px;
@@ -190,6 +194,10 @@ h4 {
   width: 20px;
 }
 
+#magnifying-glass:hover {
+  cursor: pointer;
+}
+
 fieldset {
   display: flex;
   flex-direction: row;
@@ -210,6 +218,7 @@ legend {
 
 input[type="checkbox"] {
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .checkbox-label {
@@ -252,7 +261,11 @@ input[type="checkbox"] {
   display: flex;
   justify-content: flex-end;
   margin: 0;
-  padding: 20px 60px;
+  padding: 15px 60px;
+}
+
+#footer-img {
+  max-width: 100%;
 }
 
 #footer-nav ul {
@@ -276,10 +289,6 @@ input[type="checkbox"] {
 @media only screen and (max-width: 768px) {
   fieldset {
     flex-direction: column;
-  }
-
-  #footer-img {
-    width: 90%;
   }
 }
 

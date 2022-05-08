@@ -1,7 +1,6 @@
 # Georgetown University Office of Advancement: Hoyas in August Event Attendees
-
-Coded by Alana Nanz
 Coding Assessment for Web Developer Role
+Coded by Alana Nanz
 
 ## Welcome! 👋
 
@@ -40,3 +39,4 @@ Note: Although this webpage was coded for desktop with a 1200px browser, I norma
 ## Useful resources
 - https://codepen.io/sosuke/pen/Pjoqqp - SVG color filter
 - https://codepen.io/stoic25/pen/gKLXWZ?editors=1100 - magnifying glass input field
+- https://www.w3schools.com/tags/tag_fieldset.asp - HTML <fieldset> Tag
